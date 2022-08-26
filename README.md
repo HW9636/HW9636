@@ -26,5 +26,8 @@ I am a highschool student that spends free time coding in Java and C++.
 
 #### Java
 
+#### AutoSmithingTable Mod
+More ahout this [here](https://github.com/HW9636/AutoSmithingTableMod).
+
 #### CPP (C++)
 
